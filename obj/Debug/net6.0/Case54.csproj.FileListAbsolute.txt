@@ -1,0 +1,15 @@
+C:\Geekbrain\Case54\bin\Debug\net6.0\Case54.exe
+C:\Geekbrain\Case54\bin\Debug\net6.0\Case54.deps.json
+C:\Geekbrain\Case54\bin\Debug\net6.0\Case54.runtimeconfig.json
+C:\Geekbrain\Case54\bin\Debug\net6.0\Case54.dll
+C:\Geekbrain\Case54\bin\Debug\net6.0\Case54.pdb
+C:\Geekbrain\Case54\obj\Debug\net6.0\Case54.csproj.AssemblyReference.cache
+C:\Geekbrain\Case54\obj\Debug\net6.0\Case54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrain\Case54\obj\Debug\net6.0\Case54.AssemblyInfoInputs.cache
+C:\Geekbrain\Case54\obj\Debug\net6.0\Case54.AssemblyInfo.cs
+C:\Geekbrain\Case54\obj\Debug\net6.0\Case54.csproj.CoreCompileInputs.cache
+C:\Geekbrain\Case54\obj\Debug\net6.0\Case54.dll
+C:\Geekbrain\Case54\obj\Debug\net6.0\refint\Case54.dll
+C:\Geekbrain\Case54\obj\Debug\net6.0\Case54.pdb
+C:\Geekbrain\Case54\obj\Debug\net6.0\Case54.genruntimeconfig.cache
+C:\Geekbrain\Case54\obj\Debug\net6.0\ref\Case54.dll
